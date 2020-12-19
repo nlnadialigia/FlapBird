@@ -1,8 +1,5 @@
 <center>
-<img src="./assets/projeto-estudo.png" alt="Logo">
 <img src="./assets/flappy-logo.png" alt="Logo">
-
-<h2> Este projeto faz parte da série de projetos que serão desenvolvidos a título de estudo</h2>
 </center>
 
 ## 🔖 Sobre
